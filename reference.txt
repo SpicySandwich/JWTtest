@@ -1,0 +1,9 @@
+Tutorial
+https://www.youtube.com/watch?v=soGRyl9ztjI&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=10
+https://www.youtube.com/watch?v=X80nJ5T7YpE&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=12
+
+JWT
+https://jwt.io/
+
+base64UrlEncod
+https://cryptii.com/pipes/base64-to-text
